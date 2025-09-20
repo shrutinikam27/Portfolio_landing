@@ -76,6 +76,7 @@
     transition: 0.3s;
 }
 
+<<<<<<< HEAD
 /* Enhanced Mobile Responsiveness */
 @media (max-width: 1200px) {
     .footer {
@@ -101,10 +102,16 @@
     .footer {
         margin: 50px 70px;
         gap: 25px;
+=======
+@media (max-width: 768px) {
+    .footer {
+        margin: 50px 70px;
+>>>>>>> 2726a8b20655d1e7261d8fe30fe3fbd26a1dbb7b
     }
 
     .footer-top {
         flex-direction: column;
+<<<<<<< HEAD
         gap: 40px;
         align-items: flex-start;
     }
@@ -244,5 +251,15 @@
 
     .footer-bottom-right {
         gap: 15px;
+=======
+        gap: 50px;
+    }
+
+
+    .footer-bottom {
+        flex-direction: column-reverse;
+        display: flex;
+        margin-bottom: 50px;
+>>>>>>> 2726a8b20655d1e7261d8fe30fe3fbd26a1dbb7b
     }
 }

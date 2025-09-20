@@ -7,10 +7,14 @@
 
 .hero-img {
     margin-top: 150px;
+<<<<<<< HEAD
     width: 300px;
     height: 300px;
     border-radius: 50%;
     object-fit: cover;
+=======
+
+>>>>>>> 2726a8b20655d1e7261d8fe30fe3fbd26a1dbb7b
 }
 
 .hero h1 {
