@@ -8,8 +8,8 @@ const Services = () => {
     return (
         <div id='services' className='services'>
             <div className="services-title">
-                <h1 className="mywork-title">My Skills</h1>
-                <img src={theme_pattern} alt="" />
+                <h1 className="mywork-title">My Services</h1>
+                <img src={theme_pattern} alt="Decorative theme pattern" />
             </div>
             <div className="services-container">
                 {Services_Data.map((service, index) => {
@@ -24,7 +24,7 @@ const Services = () => {
                 })}
                 <div className="mywork-showmore">
                     <p>more</p>
-                    <img src={arrow_icon} alt="" />
+                    <img src={arrow_icon} alt="Arrow icon" />
                 </div>
             </div>
         </div>
