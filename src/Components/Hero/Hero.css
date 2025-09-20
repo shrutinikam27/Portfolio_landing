@@ -7,14 +7,10 @@
 
 .hero-img {
     margin-top: 150px;
-<<<<<<< HEAD
     width: 300px;
     height: 300px;
     border-radius: 50%;
     object-fit: cover;
-=======
-
->>>>>>> 2726a8b20655d1e7261d8fe30fe3fbd26a1dbb7b
 }
 
 .hero h1 {
@@ -52,7 +48,6 @@
     border-radius: 50px;
     background: linear-gradient(270deg, #df8908 -5.09%, #B415FF 106.28%);
     cursor: pointer;
-
 }
 
 .hero-resume {
@@ -64,7 +59,6 @@
 
 .hero-connect:hover {
     border: 2px solid white;
-
 }
 
 .hero-resume:hover {
